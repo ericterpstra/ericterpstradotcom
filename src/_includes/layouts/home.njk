@@ -1,0 +1,9 @@
+---
+layout: base.njk
+---
+
+<div class="projects-grid">
+    {% for project in projects %}
+        {% include "components/project-card.njk" %}
+    {% endfor %}
+</div>

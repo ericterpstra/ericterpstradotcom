@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Project One",
+        "description": "A brief description of the first project showcasing key features and technologies used.",
+        "thumbnail": "https://via.placeholder.com/800x450/1E1E1E/7928CA?text=Project+One",
+        "links": [
+            {
+                "text": "View Live",
+                "url": "https://example.com/project1"
+            },
+            {
+                "text": "GitHub",
+                "url": "https://github.com/ericterpstra/project1"
+            }
+        ],
+        "tags": [
+            "JavaScript",
+            "React",
+            "CSS"
+        ]
+    },
+    {
+        "title": "Project Two",
+        "description": "An overview of the second project highlighting its purpose and implementation details.",
+        "thumbnail": "https://via.placeholder.com/800x450/1E1E1E/7928CA?text=Project+Two",
+        "links": [
+            {
+                "text": "View Live",
+                "url": "https://example.com/project2"
+            },
+            {
+                "text": "GitHub",
+                "url": "https://github.com/ericterpstra/project2"
+            }
+        ],
+        "tags": [
+            "Node.js",
+            "Express",
+            "MongoDB"
+        ]
+    },
+    {
+        "title": "Project Three",
+        "description": "Description of the third project explaining its functionality and technical challenges overcome.",
+        "thumbnail": "https://via.placeholder.com/800x450/1E1E1E/7928CA?text=Project+Three",
+        "links": [
+            {
+                "text": "View Live",
+                "url": "https://example.com/project3"
+            },
+            {
+                "text": "GitHub",
+                "url": "https://github.com/ericterpstra/project3"
+            }
+        ],
+        "tags": [
+            "Python",
+            "Django",
+            "PostgreSQL"
+        ]
+    },
+    {
+        "title": "Project Four",
+        "description": "Details about the fourth project showcasing its unique features and implementation approach.",
+        "thumbnail": "https://via.placeholder.com/800x450/1E1E1E/7928CA?text=Project+Four",
+        "links": [
+            {
+                "text": "View Live",
+                "url": "https://example.com/project4"
+            },
+            {
+                "text": "GitHub",
+                "url": "https://github.com/ericterpstra/project4"
+            }
+        ],
+        "tags": [
+            "Vue.js",
+            "Firebase",
+            "Tailwind CSS"
+        ]
+    },
+    {
+        "title": "Project Five",
+        "description": "Overview of the fifth project highlighting its purpose and key technologies used in development.",
+        "thumbnail": "https://via.placeholder.com/800x450/1E1E1E/7928CA?text=Project+Five",
+        "links": [
+            {
+                "text": "View Live",
+                "url": "https://example.com/project5"
+            },
+            {
+                "text": "GitHub",
+                "url": "https://github.com/ericterpstra/project5"
+            }
+        ],
+        "tags": [
+            "TypeScript",
+            "Next.js",
+            "GraphQL"
+        ]
+    }
+]

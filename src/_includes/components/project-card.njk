@@ -1,0 +1,25 @@
+<article class="project-card">
+    <div class="project-thumbnail">
+        <img src="{{ project.thumbnail }}" alt="{{ project.title }}" loading="lazy">
+    </div>
+    <div class="project-content">
+        <h2 class="project-title">{{ project.title }}</h2>
+        <p class="project-description">{{ project.description }}</p>
+        
+        {% if project.tags and project.tags.length > 0 %}
+        <div class="project-tags">
+            {% for tag in project.tags %}
+            <span class="project-tag">{{ tag }}</span>
+            {% endfor %}
+        </div>
+        {% endif %}
+        
+        {% if project.links and project.links.length > 0 %}
+        <div class="project-links">
+            {% for link in project.links %}
+            <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer" class="project-link">{{ link.text }}</a>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+</article>

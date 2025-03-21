@@ -1,0 +1,23 @@
+{
+  "name": "ericterpstradotcom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "11ty",
+    "static site"
+  ],
+  "author": "Eric Terpstra",
+  "license": "ISC",
+  "description": "A minimalist portfolio website built with 11ty",
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^6.0.1",
+    "@11ty/eleventy-navigation": "^1.0.1"
+  }
+}

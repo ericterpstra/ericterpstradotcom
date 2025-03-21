@@ -1,0 +1,5 @@
+# robots.txt for ericterpstra.com
+User-agent: *
+Allow: /
+
+Sitemap: https://ericterpstra.com/sitemap.xml

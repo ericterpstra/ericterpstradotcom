@@ -1,0 +1,26 @@
+{
+    "name": "Eric Terpstra",
+    "tagline": "A little projects showcase",
+    "url": "https://ericterpstra.com",
+    "description": "A minimalist portfolio showcasing Eric Terpstra's projects",
+    "social": {
+        "twitter": {
+            "url": "https://twitter.com/eterps",
+            "handle": "@eterps"
+        },
+        "linkedin": {
+            "url": "https://linkedin.com/in/ericterpstra",
+            "handle": "ericterpstra"
+        },
+        "github": {
+            "url": "https://github.com/ericterpstra",
+            "handle": "ericterpstra"
+        }
+    },
+    "theme": {
+        "background": "#121212",
+        "text": "#E0E0E0",
+        "primaryAccent": "#7928CA",
+        "secondaryAccent": "#FF0080"
+    }
+}
