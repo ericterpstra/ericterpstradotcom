@@ -8,13 +8,13 @@ A minimalist portfolio website built with 11ty, showcasing Eric Terpstra's proje
 - Dark theme with monospace typography
 - Minimal design focused on showcasing projects
 - Optimized for performance and accessibility
-- Automatic deployment to Cloudflare Pages
+- Direct deployment to Cloudflare Pages
 
 ## Tech Stack
 
 - **Static Site Generator**: [11ty (Eleventy)](https://www.11ty.dev/)
 - **CSS**: Custom CSS with modern features (CSS Grid, Flexbox, Variables)
-- **Deployment**: GitHub → Cloudflare Pages
+- **Deployment**: Cloudflare Pages with built-in 11ty support
 - **Image Optimization**: 11ty Image plugin
 
 ## Development
@@ -54,21 +54,20 @@ npm run build
 
 The built site will be in the `_site` directory.
 
-## Deployment
+## Deployment to Cloudflare Pages
 
-This site is automatically deployed to Cloudflare Pages when changes are pushed to the main branch.
+Cloudflare Pages has built-in support for 11ty projects, making deployment simple:
 
-### Manual Deployment
-
-1. Build the site:
-   ```bash
-   npm run build
-   ```
-
-2. Deploy to Cloudflare Pages using Wrangler:
-   ```bash
-   npx wrangler pages publish _site --project-name=ericterpstradotcom
-   ```
+1. Push your code to a GitHub repository
+2. Log in to your Cloudflare dashboard
+3. Navigate to Pages > Create a project
+4. Connect your GitHub account and select your repository
+5. Configure the build settings:
+   - Framework preset: Eleventy
+   - Build command: `npm run build`
+   - Build output directory: `_site`
+6. Click "Save and Deploy"
+7. Once deployed, you can configure your custom domain in the Cloudflare Pages settings
 
 ## Customization
 
