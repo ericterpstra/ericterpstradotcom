@@ -1,8 +1,8 @@
 [
     {
-        "title": "Project One",
-        "description": "A brief description of the first project showcasing key features and technologies used.",
-        "thumbnail": "https://via.placeholder.com/800x450/1E1E1E/7928CA?text=Project+One",
+        "title": "Smart(er) Cat Feeder",
+        "description": "A cat feeder for one cat and not the other.",
+        "thumbnail": "/assets/images/projects/placeholder.svg",
         "links": [
             {
                 "text": "View Live",
@@ -20,9 +20,9 @@
         ]
     },
     {
-        "title": "Project Two",
-        "description": "An overview of the second project highlighting its purpose and implementation details.",
-        "thumbnail": "https://via.placeholder.com/800x450/1E1E1E/7928CA?text=Project+Two",
+        "title": "Antique Bluetooth Boombox",
+        "description": "An antique clock got a makeover.",
+        "thumbnail": "/assets/images/projects/placeholder.svg",
         "links": [
             {
                 "text": "View Live",
@@ -40,29 +40,29 @@
         ]
     },
     {
-        "title": "Project Three",
-        "description": "Description of the third project explaining its functionality and technical challenges overcome.",
-        "thumbnail": "https://via.placeholder.com/800x450/1E1E1E/7928CA?text=Project+Three",
+        "title": "Welcome Back Alex",
+        "description": "A Phaser JS game to welcome back Alex.",
+        "thumbnail": "/assets/images/projects/welcome_back_alex.png",
         "links": [
             {
                 "text": "View Live",
-                "url": "https://example.com/project3"
+                "url": "https://welcomebackalex.ericterpstra.com"
             },
             {
                 "text": "GitHub",
-                "url": "https://github.com/ericterpstra/project3"
+                "url": "https://github.com/ericterpstra/welcome-back-alex"
             }
         ],
         "tags": [
-            "Python",
-            "Django",
-            "PostgreSQL"
+            "Javascript",
+            "Phaser JS",
+            "Game Dev"
         ]
     },
     {
-        "title": "Project Four",
-        "description": "Details about the fourth project showcasing its unique features and implementation approach.",
-        "thumbnail": "https://via.placeholder.com/800x450/1E1E1E/7928CA?text=Project+Four",
+        "title": "The Bogstras: The Video Game",
+        "description": "A cool Flash game starring my family!",
+        "thumbnail": "/assets/images/projects/placeholder.svg",
         "links": [
             {
                 "text": "View Live",
@@ -80,9 +80,29 @@
         ]
     },
     {
-        "title": "Project Five",
-        "description": "Overview of the fifth project highlighting its purpose and key technologies used in development.",
-        "thumbnail": "https://via.placeholder.com/800x450/1E1E1E/7928CA?text=Project+Five",
+        "title": "Are You Smarter Than Jen and Ian?",
+        "description": "A quiz game for Jen and Ian's wedding.",
+        "thumbnail": "/assets/images/projects/placeholder.svg",
+        "links": [
+            {
+                "text": "View Live",
+                "url": "https://example.com/project5"
+            },
+            {
+                "text": "GitHub",
+                "url": "https://github.com/ericterpstra/project5"
+            }
+        ],
+        "tags": [
+            "TypeScript",
+            "Next.js",
+            "GraphQL"
+        ]
+    },
+    {
+        "title": "Turkey Trot... OF DOOM!",
+        "description": "A little game to celebrate turkey day.",
+        "thumbnail": "/assets/images/projects/placeholder.svg",
         "links": [
             {
                 "text": "View Live",
