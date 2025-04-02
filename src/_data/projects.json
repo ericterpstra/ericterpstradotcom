@@ -1,42 +1,36 @@
 [
     {
         "title": "Smart(er) Cat Feeder",
-        "description": "A cat feeder for one cat and not the other.",
-        "thumbnail": "/assets/images/projects/placeholder.svg",
+        "description": "A cat feeder for one cat but not the other. With AI",
+        "thumbnail": "/assets/images/projects/feeder-completed.jpg",
         "links": [
             {
-                "text": "View Live",
-                "url": "https://example.com/project1"
-            },
-            {
                 "text": "GitHub",
-                "url": "https://github.com/ericterpstra/project1"
+                "url": "https://github.com/ericterpstra/lola-feeder"
             }
         ],
         "tags": [
             "JavaScript",
-            "React",
-            "CSS"
+            "Python",
+            "TensorFlow",
+            "Raspberry Pi",
+            "AI / ML"
         ]
     },
     {
-        "title": "Antique Bluetooth Boombox",
-        "description": "An antique clock got a makeover.",
-        "thumbnail": "/assets/images/projects/placeholder.svg",
+        "title": "The Bogstras: The Video Game",
+        "description": "A cool Flash game starring my family!",
+        "thumbnail": "/assets/images/projects/the-bogstras.png",
         "links": [
             {
                 "text": "View Live",
-                "url": "https://example.com/project2"
-            },
-            {
-                "text": "GitHub",
-                "url": "https://github.com/ericterpstra/project2"
+                "url": "https://thebogstras.ericterpstra.com"
             }
         ],
         "tags": [
-            "Node.js",
-            "Express",
-            "MongoDB"
+            "Flash / ActionScript",
+            "Game Dev",
+            "Pixel Art"
         ]
     },
     {
@@ -60,43 +54,23 @@
         ]
     },
     {
-        "title": "The Bogstras: The Video Game",
-        "description": "A cool Flash game starring my family!",
-        "thumbnail": "/assets/images/projects/placeholder.svg",
-        "links": [
-            {
-                "text": "View Live",
-                "url": "https://example.com/project4"
-            },
-            {
-                "text": "GitHub",
-                "url": "https://github.com/ericterpstra/project4"
-            }
-        ],
-        "tags": [
-            "Vue.js",
-            "Firebase",
-            "Tailwind CSS"
-        ]
-    },
-    {
         "title": "Are You Smarter Than Jen and Ian?",
         "description": "A quiz game for Jen and Ian's wedding.",
         "thumbnail": "/assets/images/projects/placeholder.svg",
         "links": [
             {
                 "text": "View Live",
-                "url": "https://example.com/project5"
+                "url": "https://aystjai.ericterpstra.com"
             },
             {
                 "text": "GitHub",
-                "url": "https://github.com/ericterpstra/project5"
+                "url": "https://github.com/ericterpstra/aystjai/"
             }
         ],
         "tags": [
-            "TypeScript",
-            "Next.js",
-            "GraphQL"
+            "Javascript",
+            "jQuery",
+            "Game Dev"
         ]
     },
     {
@@ -114,9 +88,24 @@
             }
         ],
         "tags": [
-            "TypeScript",
-            "Next.js",
-            "GraphQL"
+            "Game Dev",
+            "Construct 2",
+            "Pixel Art"
+        ]
+    },
+    {
+        "title": "Antique Bluetooth Boombox",
+        "description": "An antique clock got a makeover.",
+        "thumbnail": "/assets/images/projects/boombox.jpg",
+        "links": [
+            {
+                "text": "Blog Post",
+                "url": "https://medium.com/@eterps/antique-bluetooth-mantlepiece-boombox-9187f6199344"
+            }
+        ],
+        "tags": [
+            "Raspberry Pi",
+            "Audio Hardware"
         ]
     }
 ]
