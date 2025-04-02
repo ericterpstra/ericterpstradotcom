@@ -56,7 +56,7 @@
     {
         "title": "Are You Smarter Than Jen and Ian?",
         "description": "A quiz game for Jen and Ian's wedding.",
-        "thumbnail": "/assets/images/projects/placeholder.svg",
+        "thumbnail": "/assets/images/projects/aystjai.png",
         "links": [
             {
                 "text": "View Live",
@@ -76,15 +76,15 @@
     {
         "title": "Turkey Trot... OF DOOM!",
         "description": "A little game to celebrate turkey day.",
-        "thumbnail": "/assets/images/projects/placeholder.svg",
+        "thumbnail": "/assets/images/projects/turkeytrot.png",
         "links": [
             {
                 "text": "View Live",
-                "url": "https://example.com/project5"
+                "url": "https://turkeytrot.ericterpstra.com"
             },
             {
                 "text": "GitHub",
-                "url": "https://github.com/ericterpstra/project5"
+                "url": "https://github.com/ericterpstra/turkeytrot"
             }
         ],
         "tags": [
