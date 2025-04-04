@@ -1,5 +1,22 @@
 [
     {
+        "title": "A Painting as a Light Switch",
+        "description": "Featuring a Govee Light Curtain, a Raspberry Pi and an Adafruit Capacative Touch Hat",
+        "thumbnail": "/assets/images/projects/feeder-completed.jpg",
+        "links": [
+            {
+                "text": "GitHub",
+                "url": "https://github.com/ericterpstra/govee-lightwall-touch-controller"
+            }
+        ],
+        "tags": [
+            "JavaScript",
+            "Raspberry Pi",
+            "Sensors",
+            "AI Coding"
+        ]
+    },
+    {
         "title": "Smart(er) Cat Feeder",
         "description": "A cat feeder for one cat but not the other. With AI",
         "thumbnail": "/assets/images/projects/feeder-completed.jpg",
