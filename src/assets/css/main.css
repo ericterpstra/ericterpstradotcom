@@ -131,8 +131,8 @@ a:hover, a:focus {
 }
 
 .project-thumbnail {
-    aspect-ratio: 16 / 9;
-    overflow: hidden;
+    /* aspect-ratio: 16 / 9;
+    overflow: hidden; */
 }
 
 .project-thumbnail img {
