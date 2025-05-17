@@ -10,6 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const projectLinks = document.querySelectorAll('.project-link');
     projectLinks.forEach(link => {
         link.addEventListener('click', () => {
+            // Remove active class from any other project links
+            projectLinks.forEach(l => l.classList.remove('active'));
             link.classList.add('active');
         });
     });
